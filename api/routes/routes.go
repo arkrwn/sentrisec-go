@@ -2,7 +2,7 @@ package routes
 
 import (
     "github.com/gofiber/fiber/v2"
-    "github.com/arkrwn/sentrisec-go/handlers"
+    "sentrisec/handlers"
 )
 
 func Setup(app *fiber.App) {
