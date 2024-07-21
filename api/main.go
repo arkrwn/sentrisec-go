@@ -4,7 +4,7 @@ import (
     "log"
     "github.com/gofiber/fiber/v2"
     "github.com/gofiber/fiber/v2/middleware/logger"
-    "github.com/yourusername/sentrisec/routes"
+    "github.com/arkrwn/sentrisec-go/routes"
 )
 
 func main() {
